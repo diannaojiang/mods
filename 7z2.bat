@@ -1,0 +1,1 @@
+for %%i in (%*) do "./7z.exe" a "%%~ni.7z" %%i*
